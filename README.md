@@ -3,6 +3,6 @@
 
 # 목록
 - Lv.1
-* [폰켓몬](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/폰켓몬.md)
-* [둘만의 암호](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/둘만의%20암호.md)
 * [덧칠하기](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/덧칠하기.md)
+* [둘만의 암호](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/둘만의%20암호.md)
+* [폰켓몬](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/폰켓몬.md)
