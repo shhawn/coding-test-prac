@@ -2,6 +2,8 @@
 프로그래머스의 연습 문제를 풀어보며 코딩테스트 대비 및 문제 해결 능력을 키우고자 한다.
 
 # 목록
+* Lv.2
+  * [연속 부분 수열의 합](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/연속%20부분%20수열의%20합.md)
 * Lv.1
   * [신고 결과 받기](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/신고%20결과%20받기.md)
   * [성격 유형 검사](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/성격%20유형%20검사.md)
