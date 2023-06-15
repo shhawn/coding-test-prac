@@ -3,6 +3,7 @@
 
 # 목록
 * Lv.2
+  * [오픈채팅방](https://github.com/shhawn/coding-test-prac/blob/main/Lv.2/오픈채팅방.md)
   * [호텔 대실](https://github.com/shhawn/coding-test-prac/blob/main/Lv.2/호텔%20대실.md)
   * [연속 부분 수열의 합](https://github.com/shhawn/coding-test-prac/blob/main/Lv.2/연속%20부분%20수열의%20합.md)
 * Lv.1
