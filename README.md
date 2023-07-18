@@ -9,6 +9,7 @@
   * [호텔 대실](https://github.com/shhawn/coding-test-prac/blob/main/Lv.2/호텔%20대실.md)
   * [연속 부분 수열의 합](https://github.com/shhawn/coding-test-prac/blob/main/Lv.2/연속%20부분%20수열의%20합.md)
 * Lv.1
+  * [대충 만든 자판](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/대충%20만든%20자판.md)
   * [바탕화면 정리](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/바탕화면%20정리.md)
   * [아이디 추천](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/아이디%20추천.md)
   * [신고 결과 받기](https://github.com/shhawn/coding-test-prac/blob/main/Lv.1/신고%20결과%20받기.md)
